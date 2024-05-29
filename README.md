@@ -1,6 +1,6 @@
 
 # 👽 Atop World Dominesion 👽
-![Tampilan Game](https://drive.google.com/file/d/1rn9zpSdWpvN3h81nXfGWAYTc_zsjTdi0/view?usp=sharing)
+![Tampilan Game](Home.png)
 Pada hari yang indah, bumi tiba tiba dihancurkan oleh makhluk luar angkasa. Kiki -- karyawan swasta di suatu perusahaan kecil menonton berita soal kedatangan makhluk tersebut kemudian berpikir tidak mungkin tempat kerja nya masih beroperasi. Tetapi kemudian telepon berdering disaat Kiki ingin tidur kembali. Ternyata telepon itu berasal dari bosnya. Bos menyuruh Kiki untuk datang ke tempat kerja di saat bumi perlahan mulai hancur... "YANG BENER AJE!" 
 
 Mampukah Kiki pergi berangkat kerja ke kantor tepat waktu? Tetapi keadaan bumi di luar rumah kecilnya terlalu kacau balau!
