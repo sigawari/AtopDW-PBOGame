@@ -59,7 +59,7 @@ Semoga berhasil dan selamat bermain!
 | 122140202 | [Dharma Rizki Geraldo](https://www.instagram.com/dharma_geraldo/) | Project Leader and Programming |
 | 122140201 | [Ayu Jannati Ali Putri](https://www.instagram.com/ayujnnti/) | UML and Music Designer |
 | 122140207 | [Intan Permata Sari](https://www.instagram.com/lntan_permata/) | Background Designs and Sound Assets |
-| 122140202 | [Sakinah Aulia](https://www.instagram.com/skicha.a/) | Character Designs (Artist) and Story |
+| 122140210 | [Sakinah Aulia](https://www.instagram.com/skicha.a/) | Character Designs (Artist) and Story |
 | 122140208 | [Sikah Nubuahtul Ilmi](https://www.instagram.com/sikahn_/) | Programming | 
 
 
